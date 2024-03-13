@@ -1,5 +1,8 @@
 ### Hi there I am Tejas 👋
 
+I'm a student at the University of California, Berkeley studying Computer Science. I'm currently exploring different disciplines within the field to find one I'm most interested in. 
+
+If you'd like to work together on something or chat, feel free to reach out at any of my linked socials!
 <!--
 **tbalebail/tbalebail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
